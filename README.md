@@ -1,4 +1,8 @@
 ![Header](./leetcode-header-image.png)
+![Static Badge](https://img.shields.io/badge/LeetCode-orange)
+![Static Badge](https://img.shields.io/badge/Started-5%2F3%2F25-blue)
+![Static Badge](https://img.shields.io/badge/Status-Ongoing-green)
+
 ## 📖 What Is LeetCode? / Why do this Challenge? 📚
 $${\color{orange}LeetCode}$$ is a website dedicated to the creation and solving of algorithmically based puzzles.
 It utilizes commonly used Data Structures and showcases how to use them to solve puzzles. The skills learned in $${\color{orange}LeetCode}$$ can easily be applied to real life, as they are essentially just training you for knowing when to use them and how to do so through repetition. Thus, I'm setting out on a journey to do **at least 2 months (_60 days_)** of $${\color{orange}LeetCode}$$ daily. All my progress will be uploaded here alongside any notes I've taken, so that I can document my journey and update how I feel after certain intervals!
