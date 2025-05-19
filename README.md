@@ -18,3 +18,15 @@ Welcome to **Day Zero**! This is the start of my journey! My intent is to weekly
   <li>Become more comfortable with documentation and whiteboarding techniques</li>
 </ul>
 <p>I look forward to my next update with some new additions! Keep you posted!</p>
+
+## Day 14 : Comments
+Hiya! Two weeks in and I can confidently say I've learned an impressive amount reference DSA. I've been follwing a roadmap by NeetCode, wherein the questions thus far have been related on the following topics:
+<ul>
+  <li>Arrays</li>
+  <li>Pointer-Based Solutions</li>
+  <li>Two-Pointer Solutions</li>
+  <li>Stacks</li>
+</ul>
+This has greatly improved my understanding of Lists, Hashmaps, Hashsets, Stacks, and Queues. I look forward to the next set of items wherein I'm learning about BSTS and other such Data Structures where a deep understanding can be pivotal in day-to-day use!
+</br></br>
+<p>See y'all in two weeks for the next update!</p>
